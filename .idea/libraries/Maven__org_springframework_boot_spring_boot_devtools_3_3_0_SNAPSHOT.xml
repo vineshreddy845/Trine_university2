@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-devtools:3.3.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/3.3.0-SNAPSHOT/spring-boot-devtools-3.3.0-20240118.010343-87.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/3.3.0-SNAPSHOT/spring-boot-devtools-3.3.0-20240125.134552-103.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/3.3.0-SNAPSHOT/spring-boot-devtools-3.3.0-20240118.010343-87-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/3.3.0-SNAPSHOT/spring-boot-devtools-3.3.0-20240125.134552-103-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/3.3.0-SNAPSHOT/spring-boot-devtools-3.3.0-20240118.010343-87-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/3.3.0-SNAPSHOT/spring-boot-devtools-3.3.0-20240125.134552-103-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
