@@ -63,13 +63,11 @@ public class Controller {
          }
          return response;
     }
-//     @GetMapping("/map1")
-//    public Response response(@RequestBody Studentrecord studentrecord)
-//    {
-//       int stuid= repo.Id(studentrecord.getStudent_id());
-//        long d=  repodepartmentstudentrecord.getcount(stuid);
-//        boolean a=d!=0;
-//        return a;
-//
-//    }
+     @GetMapping("/map1")
+    public String response(@RequestBody Studentrecord studentrecord)
+    {
+
+
+  return "vinesh";
+    }
 }
