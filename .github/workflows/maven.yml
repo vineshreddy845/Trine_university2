@@ -32,9 +32,9 @@ jobs:
          pwd
             ls -la
     - name: Build with Maven
-      run: cd /home/runner/work/Trine_university2/Trine_university
+      run: mvn clean install -B -DskipTests
       
-       mvn clean install -X -DskipTests
+    working-directory: Trine_university
     
 
 
