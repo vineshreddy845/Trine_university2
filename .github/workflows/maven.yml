@@ -33,7 +33,7 @@ jobs:
             ls -la
     - name: Build with Maven
       run: 
-        cd pom.xml
+       pom.xml
        mvn clean install -X -DskipTests
     
 
