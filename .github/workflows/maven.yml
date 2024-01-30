@@ -32,8 +32,8 @@ jobs:
          pwd
             ls -la
     - name: Build with Maven
-      run: 
-       cd Trine_university
+      run: cd Trine_university
+      
        mvn clean install -X -DskipTests
     
 
