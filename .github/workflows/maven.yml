@@ -33,7 +33,7 @@ jobs:
             ls -la
     - name: Build with Maven
       run: 
-       Trine_university/pom.xml
+       chmod +rx Trine_university/pom.xml
        mvn clean install -X -DskipTests
     
 
