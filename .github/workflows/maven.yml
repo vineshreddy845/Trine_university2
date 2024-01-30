@@ -32,7 +32,9 @@ jobs:
          pwd
             ls -la
     - name: Build with Maven
-      run:  mvn clean install -X -DskipTests
+      run: 
+        cd pom.xml
+       mvn clean install -X -DskipTests
     
 
 
